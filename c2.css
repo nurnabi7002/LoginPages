@@ -1,0 +1,66 @@
+*{
+  font-family: 'Times New Roman', Times, serif;
+color: white;
+  
+}
+
+body{
+ background-image: url("bgmlog.jpg");
+}
+
+.d2m{
+  border: 2px solid rgba(255,255,255,.2);
+  height: 720px;
+  width: 400px;
+  margin-left: 45px;
+  margin-top: 70px;
+  background-color: transparent;
+  border-radius: 25px;
+  backdrop-filter: blur(4px)
+  
+}
+
+.d2m h1{
+  margin-left: 130px;
+  
+}
+
+.d2m input{
+  margin-left: 90px;
+  margin-top: 50px;
+  font-size: 15px;
+  padding: 10px;
+  text-decoration: none;
+  border: 1px solid rgba(255,255,255,.7);
+  outline: none;
+  border-radius: 25px;
+  background: transparent;
+  
+}
+
+.d2m ::placeholder{
+  color: white;
+  
+}
+
+#cbt{
+  margin-left: 120px;
+  margin-top: -20px;
+}
+
+button{
+  margin-left: 100px;
+  height: 50px;
+  width: 200px;
+  font-weight: bold;
+  font-size: 20px;
+  background: white;
+  border: 2px solid white;
+  border-radius: 40px;
+  color: black;
+  
+}
+
+#af{
+margin-left: 160px;
+}
